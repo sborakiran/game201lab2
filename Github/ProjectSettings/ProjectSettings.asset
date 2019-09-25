@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 6bf000335510bc84fb2d4c53585ce5a5
+  productGUID: ff75c0f378ff0cd4481269481357771a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -617,9 +617,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: ee6d5f49-d78b-4a7d-a3e2-f59d4f9d1cbf
+  cloudProjectId: cb42aab8-6508-48fe-bd01-4a0152b1f3f8
   framebufferDepthMemorylessMode: 0
-  projectName: Github
+  projectName: Github (1)
   organizationId: sborakiran
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
